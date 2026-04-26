@@ -29,5 +29,6 @@ HTML • CSS • JavaScript
 
 🔥 Always learning. Always improving.
 
-## 🛠️ I code with
-HTML | CSS | JavaScript | C++
+## 🛠️ Skills & Tools  
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql,clion)
