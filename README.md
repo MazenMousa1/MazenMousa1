@@ -31,4 +31,4 @@ HTML • CSS • JavaScript
 
 ## 🛠️ Skills & Tools  
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql,clion)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,sql,clion)
